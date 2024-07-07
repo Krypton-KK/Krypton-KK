@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krypton-KK
-- 👀 I’m interested in Coding and programming and also crying at code with errors
+- 👀 I’m interested in Coding and programming.
 - i am capable of basic-intermidiate level python and sql
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on a few community oriented problems and their solutions
