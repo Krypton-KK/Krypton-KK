@@ -6,7 +6,10 @@
 - 📫 How to reach me :
   -instagram: @k_k_unfiltered
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: No Facts Yet. Yet to dicover those.
+- Other Skills:
+  - learning video editing currently
+  - learning piano currently
+- ⚡ Fun fact: I am a basic level astrologer practicing ALP method.
 
 <!---
 Krypton-KK/Krypton-KK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
