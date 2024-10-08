@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on a few community oriented problems and their solutions
 - 📫 How to reach me :
-  -instagram: @k_k_unfiltered
+  -instagram: @krypton.kk
 - 😄 Pronouns: He/Him/His
 - Other Skills:
   - learning video editing currently
