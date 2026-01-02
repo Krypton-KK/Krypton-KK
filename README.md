@@ -65,7 +65,8 @@
 
 - **Email:** <krypton.kk.a@proton.me>
 - **LinkedIn:** [Kavin Karthik A](https://linkedin.com/in/a-kavin-karthik)
-- **Signal:** [Here](https://signal.me/#eu/utInNe773jBDLVIdVDzfqUI12EPghSrcSfvMNBTeyj9MtUZNm_tHRZxNiJ3NZekG) 
+- **Signal:** [Here](https://signal.me/#eu/utInNe773jBDLVIdVDzfqUI12EPghSrcSfvMNBTeyj9MtUZNm_tHRZxNiJ3NZekG)
+- **Kaggle:** [Krypton-KK](https://www.kaggle.com/kryptonkk)
 
 
 Feel free to reach out for collaborations, consulting, or just a tech chat!
