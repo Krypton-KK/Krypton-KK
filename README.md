@@ -1,6 +1,6 @@
 # Kavin Karthik A (alias: Krypton)
 
-## 👨‍💻 About Me
+## About Me 👨🏻‍🏭
 
 - Hey Y'all!! I’m an **Electronics & Computer Engineer** at VIT Chennai with a passion for both hardware prototyping and modern software development. 
 - I love turning ideas into working products whether that’s a micro‑controllers, keyboard firmware, a full‑stack web apps, or a cross‑platform mobile experience.
@@ -8,36 +8,34 @@
 - I also work on electronics, currently microcontrollers (though i am in the learning phase of it....)
 - I usually learn through practice and projects and I am currently learning :
 <div>
-  <image src = "https://skillicons.dev/icons?i=react" alt = "React" />
-  <image src = "https://skillicons.dev/icons?i=tailwind" alt = "Tailwind CSS"/>
-  <image src = "https://skillicons.dev/icons?i=ts" alt = "TypeScript"/>
-  <image src = "https://skillicons.dev/icons?i=vue" alt = "Vue" />
+  <image src="https://skillicons.dev/icons?i=go" alt="Go" />
 </div>
     
-
 - I plan on learning: 
 <div>
   <image src="https://skillicons.dev/icons?i=svelte" alt="Svelte" />
-  <image src="https://skillicons.dev/icons?i=go" alt="Go" />
+  <image src = "https://skillicons.dev/icons?i=react" alt = "React" />
 </div>
 
 ## 🛠️ Tech Stack
 
-### Languages (I have some level in these)
+### Primary Languages/Stack:
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Python](https://skillicons.dev/icons?i=python)
+
+### Other Languages (I have some level of profiency in these)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=c)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
-![Python](https://skillicons.dev/icons?i=python)
-<!-- ![TypeScript](https://skillicons.dev/icons?i=ts) -->
 
 ### Frameworks & Libraries
-<!-- ![React](https://skillicons.dev/icons?i=react) 
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)-->
+<!-- ![React](https://skillicons.dev/icons?i=react) -->
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Ktor](https://skillicons.dev/icons?i=ktor)
 ![Fastapi](https://skillicons.dev/icons?i=fastapi)
@@ -59,6 +57,7 @@
 ![Nvim](https://skillicons.dev/icons?i=neovim)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![Figma](https://skillicons.dev/icons?i=figma)
+![Zed](https://skillicons.dev/icons?i=zed)
 
 
 ## Contact
