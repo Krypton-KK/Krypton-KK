@@ -15,13 +15,19 @@
 <div>
   <image src="https://skillicons.dev/icons?i=svelte" alt="Svelte" />
   <image src = "https://skillicons.dev/icons?i=react" alt = "React" />
+  <image src="https://skillicons.dev/icons?i=swift" alt="Swift" />
 </div>
+
+#### Current Projects:
+(I am currently taking a break from coding to fix my grades up a bit and will return to normal by june. But these are my projects i was working on....)
+- A Studynium AI rewrite in KMP
+- Clara CLI, an AI agent that runs locally on your pc
 
 ## 🛠️ Tech Stack
 
 ### Primary Languages/Stack:
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
-![Python](https://skillicons.dev/icons?i=python)
+ # ![Kotlin](https://skillicons.dev/icons?i=kotlin) - Full Stack Android App Development and KMP
+ # ![Python](https://skillicons.dev/icons?i=python) - Backend Development and AI Pipelining
 
 ### Other Languages (I have some level of profiency in these)
 ![Java](https://skillicons.dev/icons?i=java)
