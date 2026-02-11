@@ -40,7 +40,7 @@
 ![CSS3](https://skillicons.dev/icons?i=css)
 
 ### Frameworks & Libraries
-<!-- ![React](https://skillicons.dev/icons?i=react) -->
+![Vue](https://skillicons.dev/icons?i=vue)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Ktor](https://skillicons.dev/icons?i=ktor)
