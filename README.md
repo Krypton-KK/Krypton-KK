@@ -2,7 +2,8 @@
 
 ## About Me 👨🏻‍🏭
 
-- Hey Y'all!! I’m an **Electronics & Computer Engineer** at VIT Chennai with a passion for both hardware prototyping and modern software development. 
+- Hey Y'all!! I’m an **Electronics & Computer Engineer** at VIT Chennai with a passion for both hardware prototyping and modern software development.
+- I also am a dual degree student at IITM persuing an online BS degree in **Data Science And Its Applications**
 - I love turning ideas into working products whether that’s a micro‑controllers, keyboard firmware, a full‑stack web apps, or a cross‑platform mobile experience.
 - I am still learning a lot of the intricacies of app and web development.
 - I also work on electronics, currently microcontrollers (though i am in the learning phase of it....)
