@@ -22,7 +22,7 @@
 #### Current Projects:
 (I am currently taking a break from coding to fix my grades up a bit and will return to normal by june. But these are my projects i was working on....)
 - A Studynium AI rewrite in KMP
-- Clara CLI, an AI agent that runs locally on your pc
+- Kourai Khryseai - a more featured and full stack rewrite Clara CLI.. Planning it to be almost a mini openclaw as i am scared of running claw on my pc
 
 ## 🛠️ Tech Stack
 
