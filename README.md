@@ -82,12 +82,9 @@ Feel free to reach out for collaborations, consulting, or just a tech chat!
 | Project | Description | Tech | Status |
 |---------|-------------|------|------|
 | **Studynium AI** | open-source, AI-powered learning hub that uses Retrieval-Augmented Generation (RAG) and Agentic AI to help engineering students learn more effectively through AI-driven tools and an open dataset of academic resources | ![Kotlin](https://skillicons.dev/icons?i=kotlin)  | ![Status](https://img.shields.io/badge/Ongoing-CC7722) |
+|**Vishvakarma**|A high-performance MCP-Like tool server. Built on FastAPI & Pydantic for strict type safety. Optimized for local tool-calling models.Unifies data sources for LLMs |![Python](https://skillicons.dev/icons?i=python)|![Status](https://img.shields.io/badge/Completed-80EF80)|
 
-
+<!-- Well... i have been porting all of my work to my custom forgejo instance for a while... i will update it's public link here later. so if you are reading this well stay tuned for that!! -->
 <!-- this is not that much notable but hey if you are here reading this source code you might be interested in this ig!! -->
-
 <!-- | **Gramafone** | A end to end encrypted chat client using sockets in python for my school cs project | ![Python](https://skillicons.dev/icons?i=python) ![SQL](https://skillicons.dev/icons?i=mysql) | ![Status](https://img.shields.io/badge/Completed-80EF80) | -->
-
-
-
 <!-- ![](https://skillicons.dev/icons?i=) -->
