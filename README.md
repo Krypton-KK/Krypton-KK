@@ -12,3 +12,5 @@
 ## well finally i hosted my own git (via Forgejo) instance.
 ### Check it out @ [git.kryptonkk.co.in](https://git.kryptonkk.co.in/)
 ### This profile in that instance is @ [git.kryptonkk.co.in/Krypton-KK](https://git.kryptonkk.co.in/Krypton-KK)
+
+# I STILL WILL BE USING THIS FOR MY OPEN SOURCE (AND CLOSED SOURCE) CONTRIBUTIONS AND FOR COLLABORATING WITH MY FRIENDS BUT MOST OF MY PERSONAL WORK WILL NOW RESIDE THERE!!
